@@ -9,3 +9,7 @@ Hasil Output Modul Inherintance :
 <br>
 ![Alt text](https://github.com/yasintamaliaab/Bankmoklet/blob/master/bank.PNG)
 <br>
+2. Jika pin salah
+<br>
+![Alt text](https://github.com/yasintamaliaab/Bankmoklet/blob/master/bank1.PNG)
+<br>
