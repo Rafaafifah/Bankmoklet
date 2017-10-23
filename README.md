@@ -13,3 +13,6 @@ Hasil Output Modul Inherintance :
 <br>
 ![Alt text](https://github.com/yasintamaliaab/Bankmoklet/blob/master/bank1.PNG)
 <br>
+3. Tampilan menu utama
+<br>
+![Alt text](https://github.com/yasintamaliaab/Bankmoklet/blob/master/bank2.PNG)
